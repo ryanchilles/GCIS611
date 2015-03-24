@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test3 1
+=======
+test 3
+>>>>>>> origin/master
